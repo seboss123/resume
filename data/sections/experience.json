@@ -1,0 +1,39 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Professional</span> Experience",
+            "description": "A look into my work experience and career journey."
+        },
+
+        "es": {
+            "title": "<span class='text-primary'>Experiencia</span> Profesional",
+            "description": "Un vistazo a mi experiencia laboral y trayectoria profesional."
+        },
+
+        "fr": {
+            "title": "Expérience <span class='text-primary'>Professionnelle</span>",
+            "description": "Un aperçu de mon expérience professionnelle et de mon parcours de carrière."
+        },
+
+        "zh": {
+            "title": "<span class='text-primary'>专业</span> 经验",
+            "description": "了解我的工作经验和职业之旅。"
+        }
+    },
+
+    "items": [
+        {
+            "id": "experience_item_1",
+            "place": "@link{places.aircraft_performance_group}",
+            "period": ["2022/08", "now"],
+            "locales": {
+                "en": {
+                    "title": "Aircraft Performance Engineer",
+                    "description": "Created a Source Document Revision system using SharePoint to track all aircraft documentation (AFMs, Supplements, WBMs, FPMs) and their revisions. Developed and maintained performance models for various aircraft, ensuring accuracy and reliability. Conducted rigorous testing and debugging to ensure precise calculation results aligned with expected outcomes. Determined optimal takeoff and landing weights, runway length, and fuel requirements by considering meteorological conditions and aircraft-specific performance data. Utilized AFM data to calculate aircraft center of gravity and fuel burn profiles.",
+                    "tags": ["SharePoint", "Aircraft Modeling", "Data Analysis"]
+                }
+            }
+        }
+
+    ]
+}

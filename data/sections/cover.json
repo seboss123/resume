@@ -1,0 +1,38 @@
+{
+    "locales": {
+        "en": {
+            "welcome": "Welcome to my <span class='text-primary'>Resume!</span>",
+            "welcomeShort": "Welcome!",
+            "bio": "Dynamic and detail-oriented Aircraft Performance Engineer with a strong foundation in Computer Science and over two years of professional experience. Skilled in optimizing aircraft performance, developing computational models, and ensuring compliance with aviation standards. Proven expertise in data analysis, SharePoint system implementation, and software testing. Demonstrates a unique blend of technical acumen and analytical problem-solving to drive innovation and efficiency in aeronautical engineering. Holds a Bachelor of Applied Science in Computer Science and a solid background in programming, database management, and electrical engineering technologies."
+        },
+
+        "es": {
+            "welcome": "¡Bienvenido(a) a mi <span class='text-primary'>CV!</span>",
+            "welcomeShort": "¡Saludos!",
+            "bio": "Ingeniero de rendimiento de aeronaves dinámico y orientado al detalle con una sólida base en Ciencias de la Computación y más de dos años de experiencia profesional. Hábil en la optimización del rendimiento de las aeronaves, el desarrollo de modelos computacionales y la garantía del cumplimiento de los estándares de aviación. Experiencia comprobada en análisis de datos, implementación del sistema SharePoint y pruebas de software. Demuestra una combinación única de perspicacia técnica y resolución de problemas analíticos para impulsar la innovación y la eficiencia en la ingeniería aeronáutica. Es licenciado en Ciencias Aplicadas a la Informática y tiene una sólida formación en programación, gestión de bases de datos y tecnologías de ingeniería eléctrica."
+        },
+
+        "fr": {
+            "welcome": "Bienvenue sur mon <span class='text-primary'>CV</span>!",
+            "welcomeShort": "Bienvenue!",
+            "bio": "Ingénieur en performance aéronautique dynamique et soucieux du détail, doté de solides bases en informatique et de plus de deux ans d’expérience professionnelle. Compétences dans l’optimisation des performances des avions, le développement de modèles informatiques et la conformité aux normes de l’aviation. Expertise avérée dans l’analyse de données, la mise en œuvre de systèmes SharePoint et les tests de logiciels. Fait preuve d’un mélange unique de perspicacité technique et de résolution de problèmes analytiques pour stimuler l’innovation et l’efficacité en génie aéronautique. Titulaire d’un baccalauréat en sciences appliquées en informatique et d’une solide expérience en programmation, en gestion de bases de données et en technologies de génie électrique."
+        },
+
+        "zh": {
+            "welcome": "欢迎来到我的<span class='text-primary'>简历</span>！",
+            "welcomeShort": "欢迎!",
+            "bio": "充滿活力和注重細節的飛機性能工程師，擁有紮實的計算機科學基礎和超過兩年的專業經驗。擅長優化飛機性能、開發計算模型和確保符合航空標準。在數據分析、SharePoint 系統實施和軟體測試方面擁有成熟的專業知識。展示技術敏銳度和分析問題解決能力的獨特結合，以推動航空工程的創新和效率。擁有計算機科學應用科學學士學位，並在程式設計、資料庫管理和電氣工程技術方面擁有紮實的背景。"
+        }
+    },
+    "items": {
+        "socialCircles": [
+            "@link{profile.contact.linkedin}",
+            "@link{profile.contact.github}"
+        ],
+
+        "contactListItems": [
+            "@link{profile.contact.address}",
+            "@link{profile.contact.email}"
+        ]
+    }
+}

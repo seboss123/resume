@@ -1,0 +1,45 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Educational</span> Background",
+            "description": "A glimpse into my academic trajectory and accomplishments."
+        },
+        "es": {
+            "title": "Antecedentes <span class='text-primary'>Educativos</span>",
+            "description": "Un vistazo a mi trayectoria académica y logros."
+        },
+        "fr": {
+            "title": "Parcours <span class='text-primary'>Éducatif</span>",
+            "description": "Un aperçu de mon parcours académique et de mes réalisations."
+        },
+        "zh": {
+            "title": "<span class='text-primary'>教育</span> 背景",
+            "description": "一瞥我的学术轨迹和成就。"
+        }
+    },
+    "items": [
+        {
+            "id": "bachelor_ecotech_institute",
+            "place": "@link{places.ecotech_institute}",
+            "period": ["2015/02", "2017/05"],
+            "locales": {
+                "en": {
+                    "title": "Bachelor of Science - BS, Electrical Engineering Technologies/Technicians",
+                    "description": "Graduated with a GPA of 3.8. Active in Urban Agriculture Club. Achievements include Perfect Attendance, Presidents List, and Deans List."
+                }
+            }
+        },
+        {
+            "id": "bachelor_metropolitan_state_university_of_denver",
+            "place": "@link{places.metropolitan_state_university_of_denver}",
+            "period": ["2017/01", "2022/05"],
+            "locales": {
+                "en": {
+                    "title": "Bachelor of Applied Science - BASc, Computer Science",
+                    "description": "Pursuing a Computer Science degree. Fascinated by technology since childhood, started programming in C++ at age 11. GPA: 3.7. Skills include Java, Web Development, and more."
+                }
+            }
+        }
+        
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "name": "Christian Mechem",
+    "profilePictureUrl": "images/pictures/avatar.png",
+
+    "locales": {
+        "en": {
+            "credits": "Designed by <strong><a class='light' href='https://github.com/seboss123'>Christian Mechem</a></strong>",
+            "role": "Engineer and Data Analyst"
+        },
+
+        "es": {
+            "credits": "Diseñado por <strong><a class='light' href='https://github.com/seboss123'>Christian Mechem</a></strong>",
+            "role": "Ingeniero y Analista de Datos"
+        },
+
+        "fr": {
+            "credits": "Conçu par <strong><a class='light' href='https://github.com/seboss123'>Christian Mechem</a></strong>",
+            "role": "Ingénieur et Analyste de Données"
+        },
+
+        "zh": {
+            "credits": "由 <strong><a class='light' href='https://github.com/seboss123'>Christian Mechem</a></strong> 设计",
+            "role": "工程师和数据分析师"
+        }
+        },
+
+
+    "contact": {
+        "address": {
+            "id": "address",
+            "value": "Parker, Colordao 80134",
+            "valueShort": "Parker, Colordao 80134",
+            "faIcon": "fa-solid fa-city",
+            "href": null
+        },
+
+        "email": {
+            "id": "email",
+            "value": "seboss123@gmail.com",
+            "valueShort": "seboss123@gmail.com",
+            "faIcon": "fa-solid fa-envelope",
+            "href": "mailto:seboss123@gmail.com"
+        },
+
+        "facebook": {
+            "id": "facebook",
+            "value": "Jonas Einstein",
+            "valueShort": "J. Einstein",
+            "faIcon": "fa-brands fa-facebook",
+            "href": "https://facebook.com"
+        },
+
+        "github": {
+            "id": "github",
+            "value": "@seboss123",
+            "valueShort": "@seboss123",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/seboss123"
+        },
+
+
+        "linkedin": {
+            "id": "linkedin",
+            "value": "Christian Mechem",
+            "valueShort": "Christian Mechem",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://www.linkedin.com/in/christianmechem/"
+        },
+
+        "phone": {
+            "id": "phone",
+            "value": "+1 (999) 999-9999",
+            "valueShort": "(999) 999-9999",
+            "faIcon": "fa-solid fa-phone",
+            "href": "tel:9999999999"
+        }
+    }
+}
